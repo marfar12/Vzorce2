@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RadioGroup
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RadioButton
+        android:id="@+id/vzorec1"
+        android:layout_width="300dp"
+        android:layout_height="80dp"
+        android:background="@drawable/radio_button"
+        android:button="@android:color/transparent"
+        android:gravity="center"
+        android:text="@string/linearna_funkcia"
+        android:textAllCaps="false"
+        android:textSize="25sp"
+        />
+
+    <RadioButton
+        android:id="@+id/vzorec2"
+        android:layout_width="300dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/radio_button"
+        android:button="@android:color/transparent"
+        android:gravity="center"
+        android:text="@string/kvadraticka_funkcia"
+        android:textAllCaps="false"
+        android:textSize="25sp"
+        />
+
+    <RadioButton
+        android:id="@+id/vzorec3"
+        android:layout_width="300dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="60dp"
+        android:button="@android:color/transparent"
+        android:gravity="center"
+        android:background="@drawable/radio_button"
+        android:text="@string/goniometricka_funkcia"
+        android:textAllCaps="false"
+        android:textSize="25sp"
+        />
+</RadioGroup>

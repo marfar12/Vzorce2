@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vzorce</string>
+    <string name="linearna_funkcia"><b>Lineárna funkcia</b>\n<small>y = ax + b</small></string>
+    <string name="kvadraticka_funkcia"><b>Kvadratická funkcia</b>\n<small>y = ax² + bx + c</small></string>
+    <string name="goniometricka_funkcia"><b>Goniometrická funkcia</b></string>
+    <string name="a">a=</string>
+    <string name="b">b=</string>
+    <string name="c">c=</string>
+    <string name="d">d=</string>
+    <string name="btn_kresli">Kresli</string>
+</resources>
